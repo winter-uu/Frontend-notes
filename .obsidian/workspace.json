@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "d30d1d954c5c349a",
+    "type": "split",
+    "children": [
+      {
+        "id": "945f479141a57db9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bd97f0d25c49d81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_HTML/HTML基础.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HTML基础"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b19ccf3bac1d72b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f823637c07ecd70e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86b9f296edb51a2c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "2a6577a554d6c0d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "6303fbd421281c5d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "517cbd74c4e6a311",
+    "type": "split",
+    "children": [
+      {
+        "id": "a18a2abbab1f79e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c4e44607e492996",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00_前导知识背景/web开发模型.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "web开发模型 的反向链接列表"
+            }
+          },
+          {
+            "id": "98083cf1957d8449",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01_HTML/未命名.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "未命名 的出链列表"
+            }
+          },
+          {
+            "id": "16e0b6eba720be60",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c543a3071a7ab122",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "5f6baf81c9a2ee54",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01_HTML/未命名.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "未命名 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "1bd97f0d25c49d81",
+  "lastOpenFiles": [
+    "assets/images/Pasted image 20260313142210.png",
+    "00_前导知识背景/浏览器选择和浏览器内核.md",
+    "00_前导知识背景/HTML，CSS，JS 介绍.md",
+    "00_前导知识背景/CS架构和BS架构.md",
+    "assets/images/Pasted image 20260313141238.png",
+    "assets/images/9562692ddacc3006633ef3232c7f5ddb.png",
+    "assets/images/6348f74dd1b43b1f92c41b0a407664cd.png",
+    "01_HTML/HTML基础.md",
+    "assets/images/Pasted image 20260313142117.png",
+    "assets/images/Pasted image 20260313140714.png",
+    "assets/images/Pasted image 20260313141208.png",
+    "学习记录.md",
+    "00_前导知识背景/web开发模型.md",
+    "README.md.md",
+    "assets/images",
+    "assets",
+    "6348f74dd1b43b1f92c41b0a407664cd 3.png",
+    "6348f74dd1b43b1f92c41b0a407664cd 2.png",
+    "6348f74dd1b43b1f92c41b0a407664cd.png",
+    "6348f74dd1b43b1f92c41b0a407664cd 1.png",
+    "前导知识背景.md",
+    "00_前导知识背景",
+    "07_Interview",
+    "06_Projects",
+    "05_Node",
+    "04_React",
+    "03_JavaScript",
+    "02_CSS",
+    "01_HTML"
+  ]
+}
